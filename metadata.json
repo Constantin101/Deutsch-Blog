@@ -1,0 +1,6 @@
+{
+  "name": "KlarDeutsch - Blog de Limba Germană",
+  "description": "Blog și ghid complet pentru învățarea limbii germane: vocabular tematic cu pronunție audio, gramatică explicată pe înțelesul tuturor și exemple practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
